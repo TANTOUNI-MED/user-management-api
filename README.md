@@ -25,6 +25,10 @@ A comprehensive Spring Boot REST API for user management with JWT authentication
 
 ---
 
+## API Documentation
+Interactive Swagger UI is available at:
+http://localhost:9090/swagger-ui/index.html
+
 ## API Endpoints
 
 ### 1. User Generation
